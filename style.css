@@ -1,6 +1,6 @@
 body::before {
     display: block;
-    content: '';         /* for pseudo selector "::" before & after u have to mention the content variable*/
+    content: '';        
     height: 60px;
 }
 
